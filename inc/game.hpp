@@ -18,7 +18,7 @@ const float ROTA_MAX = M_PI/3.;
 const float POW_MAX = 100.;
 const sf::Time PHYSICS_TIME_STEP = sf::milliseconds(100);
 const std::string IMAGES_PATH = "../repository/Images/";
-const std::string FONT_PATH = "../repository/";
+const std::string FONT_PATH = "../repository/font/";
 const unsigned int WIDTH_VIEW = 16000;
 const unsigned int HEIGHT_VIEW = 9000;
 
